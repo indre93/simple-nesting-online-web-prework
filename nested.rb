@@ -1,7 +1,6 @@
 
 def hopper
 	programmer_hash = 
-	binding.pry
  		{
         :grace_hopper => {
           :known_for => "COBOL",
